@@ -1,5 +1,7 @@
 <?php
 
+$test = "test";
+
 $app = array(
 	array(
 		"title" => "ワンコのFX入門",
